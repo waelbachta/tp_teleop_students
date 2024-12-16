@@ -6,6 +6,8 @@
 
 A cette fin, nous allons utiliser deux interfaces haptiques, de type 2R plan, fabriquées par l’entreprise Haption. Ces deux interfaces sont déjà connectées à leurs contrôleurs. Ces derniers communiquent avec un ordinateur de contrôleur via une connexion Ethernet. La figure 1 montre le dispositif expérimental.
 
+![environnement expérimental](images/robot.png)
+
 L’interface munie d’un autocollant orange sera utilisée comme le robot opérateur manipulé par l’humain. Le robot téléopéré est quant à lui muni d’un autocollant bleu.
 
 ### Logiciel
