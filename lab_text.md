@@ -1,5 +1,7 @@
 # TP d’initiation à la téléopération
 
+Le sujet se trouve dans lab\_text.md
+
 ## Environnement matériel
 
 ### Matériel
